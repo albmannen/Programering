@@ -1,4 +1,4 @@
-//var tal1,tal2;
+//functions test
 
 function Addera(tal1, tal2) {
     sum = tal1 + tal2;
