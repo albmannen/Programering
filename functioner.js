@@ -1,4 +1,4 @@
-//functions test
+//funktions test
 
 function Addera(tal1, tal2) {
     sum = tal1 + tal2;
